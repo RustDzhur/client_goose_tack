@@ -1,8 +1,8 @@
 {
-  "name": "react-homework-template",
+  "name": "client_goose_tack",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://t0xick1d.github.io/final-project-frontend-goose/",
+  "homepage": "https://t0xick1d.github.io/client_goose_tack/",
   "dependencies": {
     "@emotion/react": "^11.11.1",
     "@emotion/styled": "^11.11.0",
